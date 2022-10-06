@@ -1,0 +1,3 @@
+*.js
+# it will make the exception
+!app.js
